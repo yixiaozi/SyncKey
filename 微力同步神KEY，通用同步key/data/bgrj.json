@@ -1,0 +1,86 @@
+{
+    "info": {
+        "code": "bgrj",
+        "name": "办公软件",
+        "cat_num": 125
+    },
+    "data": [
+        {
+            "des": "需要通过命令提示符安装，在下载目录按住Shift点右键，以管理员身份打开命令提示符，执行set /configure install.xml安装。可使用kms服务器激活，没下载多余的东西，全部为专业增强版",
+            "title": "office 2019 vol版 仅包含word excel powerponit 三件套",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B3AIK44VO62XGECKWEFAPFV5BEC2T6MXFSWOH7AMB7TV3WYBD2IL3NY"
+        },
+        {
+            "des": "内容为2022版adobe软件，包含PS、AE、PR、AU、ME、LR、AI，需要者自取。",
+            "title": "Adobe2022版软件（PS、AE、PR、AU、ME、LR、AI）",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B4IE6SIUSWMAGYQHA652EZ5X7KZ4L3XDHBJS3RZ5TVQ67XQMCUBUSQ"
+        },
+        {
+            "des": "CorelDRAW Graphics Suite 是一个强大的矢量图设计软件支持多平台，2019年终于推出了Mac版本，算是一大进步，记得上次推出Mac版本应该是很久以前的事情了；通过这款卓越的图形设计软件，您可以找到更快，更智能，更多地方工作所需的所有专业矢量插图，布局，照片编辑和设计工具。",
+            "title": "CorelDRAW Graphics Suite 2021",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "A4T4JU4M26NMEPHQBWR2IDN3BVAUSHJ7QQK5PY5SW6MYXCJVILJEIA"
+        },
+        {
+            "des": "(达芬奇调色)Blackmagic Design DaVinci Resolve Studio 17作为实时调色系统被广泛应用于电影、电视剧、广告、独立电影、音乐电视等制作。它是让高端影片令人屏气凝神的不同所在！Blackmagic Design DaVinci Resolve Studio 17 是迄今最先进的调色工具和专业多轨道音视频剪辑工具，您只需要这一个软件便能完成剪辑、调色、后期及交付等工作！它当之无愧地成为了好莱坞电影的首选解决方案。",
+            "title": "视频编辑软件：达芬奇调色17.4 学习版",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "A44IBN3WJTHMPUOOENT4SWIPXWMM4LMZLNGZ2DRENTHRGOVURUH7QQ"
+        },
+        {
+            "des": "包含Adobe所有软件,一件安装_Win10平台，建议win10系统更新最新版,内部软件已全部破解，选择自己需要的安装即可。",
+            "title": "Adobe全家桶_2021大师版_v11.3#2_20210317(已破解，一件安装)",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B4MA66Q3CKOSPXJFBRR2S5HARCZLZERP7HUQRXICGONHPN3MNFGKWA"
+        },
+        {
+            "des": "下载好点击setup就能安装，无需破解",
+            "title": "PS2021直装版",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B3AJLDNSEAS2ID6TZMNIJ2NMN2XWMBQLFAHWQVWHWOBTLJVVOFPJKY6"
+        },
+        {
+            "des": "OFFICE 2016软件，iso格式的",
+            "title": "OFFICE 2016 64位",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B3AMTKQOJPLUJQUUFIYHWOIRP6ZB7AKUXTMNAYSURQGKSNA627OJGO6"
+        },
+        {
+            "des": "",
+            "title": "思维导图 imindmap 9 破解版",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B2M5PP3VBIHITM3YUEU4IPTXUTWPQQLOIJZ5THJUAAXBWNLBJORICBJRAN"
+        },
+        {
+            "des": "",
+            "title": "xmind",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B2QS75O2ZWLI3QZYBVVTFXJH66BOLK76IY75TTIFNMNT3ZTTGW2AK3EKAS"
+        },
+        {
+            "des": "",
+            "title": "思维导图 Mindjet MindManager 2019.19.0.306 中",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B3AIHYPNYYEI6CX6RIYW3XMH32EBXWOH5U4QNOYHNOEANCJ6ZUBHOR6"
+        },
+        {
+            "des": "",
+            "title": "mindjet导图2018版",
+            "tok": "",
+            "cat": "bgrj",
+            "key": "B22F3TOTOOZ5OZI6BKI44S7REU3MPYVVKZULESCR6JQLPYLQRGRKBQ4OQI"
+        }
+    ]
+}

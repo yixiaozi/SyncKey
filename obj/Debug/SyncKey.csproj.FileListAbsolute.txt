@@ -1,0 +1,14 @@
+E:\Develop\SyncKey\obj\Debug\SyncKey.csproj.AssemblyReference.cache
+E:\Develop\SyncKey\obj\Debug\SyncKey.csproj.SuggestedBindingRedirects.cache
+E:\Develop\SyncKey\obj\Debug\SyncKey.Form1.resources
+E:\Develop\SyncKey\obj\Debug\SyncKey.Properties.Resources.resources
+E:\Develop\SyncKey\obj\Debug\SyncKey.csproj.GenerateResource.cache
+E:\Develop\SyncKey\obj\Debug\SyncKey.csproj.CoreCompileInputs.cache
+E:\Develop\SyncKey\bin\Debug\SyncKey.exe.config
+E:\Develop\SyncKey\bin\Debug\SyncKey.exe
+E:\Develop\SyncKey\bin\Debug\SyncKey.pdb
+E:\Develop\SyncKey\bin\Debug\Newtonsoft.Json.dll
+E:\Develop\SyncKey\bin\Debug\Newtonsoft.Json.xml
+E:\Develop\SyncKey\obj\Debug\SyncKey.csproj.CopyComplete
+E:\Develop\SyncKey\obj\Debug\SyncKey.exe
+E:\Develop\SyncKey\obj\Debug\SyncKey.pdb
