@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>2998137_clover_four_leaf_icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -81,9 +84,55 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="微力同步神KEY，通用同步key\all.json" />
+    <None Include="微力同步神KEY，通用同步key\data\bgrj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\bz.json" />
+    <None Include="微力同步神KEY，通用同步key\data\cbs.json" />
+    <None Include="微力同步神KEY，通用同步key\data\fj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\hydm.json" />
+    <None Include="微力同步神KEY，通用同步key\data\hyds.json" />
+    <None Include="微力同步神KEY，通用同步key\data\hydy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\hyyy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\jlp.json" />
+    <None Include="微力同步神KEY，通用同步key\data\jypx.json" />
+    <None Include="微力同步神KEY，通用同步key\data\kfrj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\mh.json" />
+    <None Include="微力同步神KEY，通用同步key\data\omdm.json" />
+    <None Include="微力同步神KEY，通用同步key\data\omds.json" />
+    <None Include="微力同步神KEY，通用同步key\data\omdy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\omyy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qt.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtds.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtdy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtrj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtsp.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qttp.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtwd.json" />
+    <None Include="微力同步神KEY，通用同步key\data\qtyy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\rhdm.json" />
+    <None Include="微力同步神KEY，通用同步key\data\rhds.json" />
+    <None Include="微力同步神KEY，通用同步key\data\rhdy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\rhyy.json" />
+    <None Include="微力同步神KEY，通用同步key\data\rw.json" />
+    <None Include="微力同步神KEY，通用同步key\data\wlrj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\xs.json" />
+    <None Include="微力同步神KEY，通用同步key\data\xtrj.json" />
+    <None Include="微力同步神KEY，通用同步key\data\zspx.json" />
+    <None Include="微力同步神KEY，通用同步key\data\zyp.json" />
+    <None Include="微力同步神KEY，通用同步key\home.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2998137_clover_four_leaf_icon.ico" />
+    <Content Include="微力同步神KEY，通用同步key\assets\script.js" />
+    <Content Include="微力同步神KEY，通用同步key\assets\style.css" />
+    <Content Include="微力同步神KEY，通用同步key\assets\top.js" />
+    <Content Include="微力同步神KEY，通用同步key\inc\其它rj.js" />
+    <Content Include="微力同步神KEY，通用同步key\index.html" />
+    <Content Include="微力同步神KEY，通用同步key\r18.html" />
+    <Content Include="微力同步神KEY，通用同步key\ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
