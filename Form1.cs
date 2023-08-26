@@ -129,5 +129,13 @@ namespace SyncKey
         {
             Clipboard.SetText(richTextBox1.Text);
         }
+
+        private void textBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                button2_Click(null, null);
+            }
+        }
     }
 }
